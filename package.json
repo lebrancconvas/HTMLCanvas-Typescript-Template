@@ -18,6 +18,7 @@
   "dependencies": {
     "howler": "^2.2.3",
     "lodash": "^4.17.21",
+    "tonal": "^5.0.0",
     "type-fest": "^4.3.1"
   }
 }
