@@ -1,4 +1,5 @@
-import { canvas, ctx, config } from './canvas';
+import { canvas, ctx } from './canvas';
+import { config } from './config';
 
 // Prepare the canvas.
 canvas.width = config.width;
